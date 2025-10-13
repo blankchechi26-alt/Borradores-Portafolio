@@ -264,4 +264,4 @@ st.markdown("""
 **Conclusión:** combinar activos de sectores distintos (tecnología y consumo) genera un portafolio más estable frente a la volatilidad del mercado.
 """)
 
-streamlit run app.py & npx localtunnel --port 8501
+
