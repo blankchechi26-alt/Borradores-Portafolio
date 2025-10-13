@@ -227,4 +227,3 @@ elif Tema_seleccionado=='Herramienta':
 elif Tema_seleccionado=='Referencias':
     st.markdown('''**Referencias**
   -  https://hector.marinruiz.com.mx/wp-content/uploads/YMCAFCF03100414.pdf#page=14.10
- - https://www.investopedia.com/terms/p/portfolio.asp''')
