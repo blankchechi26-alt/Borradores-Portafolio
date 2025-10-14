@@ -207,4 +207,3 @@ Original file is located at
 # 
 #
 
-!streamlit run app_portafolio.py --server.enableCORS false --server.enableXsrfProtection false
