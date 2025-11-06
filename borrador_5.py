@@ -128,4 +128,3 @@ metrics = pd.DataFrame({
 })
 st.dataframe(metrics)
 
-!pip install streamlit
